@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **eames_shi@icloud.com**
 
-- ⚡ Interests: **Starcraft2 | Classical music｜Philosophy**
+- ⚡ Interests: **Starcraft2 | Classical music | Philosophy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
