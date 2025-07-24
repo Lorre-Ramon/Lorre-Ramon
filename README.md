@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shi, Eames Boxuan</h1>
-<h3 align="center">A Senior Student @HITWH seeking ones way to become a business analyst.</h3>
+<h3 align="center">An upcoming Student @CMU Heinz seeking ones way to become a data scientist or a business analyst.</h3>
 
-- 📫 How to reach me **eames_shi@icloud.com**
+- 📫 How to reach me **bxzjshi@outlook.com**
 
-- ⚡ Interests: **Starcraft2 | Classical music | Philosophy**
+- ⚡ Interests: **Starcraft2 | Classical music | F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/施博轩" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="施博轩" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/施博轩" target="blank"><img align="center" src="www.linkedin.com/in/eames-shi" alt="施博轩" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
