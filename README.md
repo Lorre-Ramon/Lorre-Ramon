@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shi, Eames Boxuan</h1>
+<h1 align="center">Hi 👋, I'm Boxuan (Eames) Shi</h1>
 <h3 align="center">A Graduate Student @CMU Heinz (Master of Information System Management - Business Intelligence and Data Analytic `26) seeking ones way to become a data scientist or a business analyst.</h3>
 
 - 📫 How to reach me **eames_shi@icloud.com**
