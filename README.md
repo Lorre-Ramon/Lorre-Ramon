@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **eames_shi@icloud.com**
 
-- ⚡ Interests: **Starcraft2 | Classical music | F1**
+- ⚡ Interests: **Classical music | F1 | History | Lego | Table Tennis | Tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
