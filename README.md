@@ -14,7 +14,7 @@
 
 <!-- ESGImg Project Card -->
 <div align="left" style="border:1px solid #ddd; border-radius:10px; padding:16px; margin-bottom:16px; box-shadow:2px 2px 5px rgba(0,0,0,0.1);">
-  <h4>🖼️ ESGImg — Image & ESG Correlation</h4>
+  <h4>🖼️ 1. ESGImg — Image & ESG Correlation</h4>
   <a href="https://github.com/Lorre-Ramon/ESGImg">
     <img src="https://img.shields.io/badge/GitHub-ESGImg-blue?logo=github" alt="ESGImg Repo"/>
   </a>
@@ -25,7 +25,7 @@
 
 <!-- Netflix Churn Project Card -->
 <div align="left" style="border:1px solid #ddd; border-radius:10px; padding:16px; margin-bottom:16px; box-shadow:2px 2px 5px rgba(0,0,0,0.1);">
-  <h4>🎬 Netflix Customer Churn</h4>
+  <h4>🎬 2. Netflix Customer Churn</h4>
   <a href="https://github.com/Lorre-Ramon/Netflix-Customer-Churn">
     <img src="https://img.shields.io/badge/GitHub-Netflix_Churn-blue?logo=github" alt="Netflix Churn Repo"/>
   </a>
