@@ -31,5 +31,5 @@
   </a>
   <p><b>Description:</b> Build a predictive model to forecast customer churn for Netflix using user behavior and subscription data.</p>
   <p><b>Tech Stack:</b> Python, scikit-learn, pandas, matplotlib, seaborn</p>
-  <p><b>Data Science Skills Involved:</b> <i>Machine Learning, Classification Modeling, Feature Engineering, ROC/AUC Evaluation</i></p>
+  <p><b>Data Science Skills Involved:</b> <i> Exploratory Data Analysis, Machine Learning, Classification Modeling, Feature Engineering, ROC/AUC Evaluation</i></p>
 </div>
