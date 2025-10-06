@@ -20,7 +20,7 @@
   </a>
   <p><b>Description:</b> Analyze how images in ESG reports relate to ESG scores via vision-language models and multimodal AI (e.g. OpenAI CLIP, OpenAI GPT4-vision).</p>
   <p><b>Tech Stack:</b> Python, PyTorch, CLIP, pandas, NumPy</p>
-  <p><b>Data Science Skills Involved:</b> <i>Multimodal ML (CLIP embeddings), Computer Vision, NLP (text embeddings), Feature Engineering, Casual Inference, ETL Pipeline</i></p>
+  <p><b>Data Science Skills Involved:</b> <i>Computer Vision, NLP (text embeddings), Feature Engineering, Casual Inference, ETL Pipeline</i></p>
 </div>
 
 <!-- Netflix Churn Project Card -->
@@ -31,5 +31,5 @@
   </a>
   <p><b>Description:</b> Build a predictive model to forecast customer churn for Netflix using user behavior and subscription data.</p>
   <p><b>Tech Stack:</b> Python, scikit-learn, pandas, matplotlib, seaborn</p>
-  <p><b>Data Science Skills Involved:</b> <i> Exploratory Data Analysis, Machine Learning, Classification Modeling, Feature Engineering, ROC/AUC Evaluation</i></p>
+  <p><b>Data Science Skills Involved:</b> <i> Exploratory Data Analysis, Machine Learning</i></p>
 </div>
