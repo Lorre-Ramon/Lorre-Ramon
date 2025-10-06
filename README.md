@@ -10,3 +10,8 @@
 <a href="https://www.linkedin.com/in/eames-shi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="施博轩" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Data Science Portfolio:</h3>
+
+- 🚀 **[Project 1: Customer Churn Prediction](https://github.com/Lorre-Ramon/Netflix-Customer-Churn)**  
+  *A machine learning project to predict customer churn using classification models (Logistic Regression, Random Forest).*  
+  _Status: Published_
